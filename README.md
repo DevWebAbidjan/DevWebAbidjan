@@ -1,4 +1,5 @@
-# 🌍 Site Vitrine École  
+# 🌍 Site Vitrine École
+![Mon site école](image/screenshot.jpg)
 
 **Projet** : Site web responsive codé en HTML/CSS/JavaScript pendant mes études.  
 ## Architecture simplifiée
