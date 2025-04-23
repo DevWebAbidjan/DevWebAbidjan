@@ -1,6 +1,13 @@
 # 🌍 Site Vitrine École  
 
 **Projet** : Site web responsive codé en HTML/CSS/JavaScript pendant mes études.  
+## Architecture simplifiée
+- `index.html` : Contient tout le code (HTML+CSS+JS)
+- `images/` : Stocke toutes les ressources visuelles
+
+## Pour modifier
+1. Éditez directement les balises `<style>` et `<script>` dans le HTML
+2. Rafraîchissez le navigateur pour voir les changements
 
 ## 🎯 Objectifs  
 - Montrer mes compétences en développement front-end.  
